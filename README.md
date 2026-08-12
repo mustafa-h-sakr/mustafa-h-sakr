@@ -436,6 +436,6 @@ I'm interested in connecting with people working on:
 
 ### `> Learn. Build. Break. Analyze. Secure.`
 
-![Profile Views](https://komarev.com/ghpvc/?username=mustafa-h-sakr&label=Profile%20Views&color=007ACC&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=mustafa-h-sakr&label=Profile%20Views&color=007ACC&style=flat-square&base=200)
 
 </div>
