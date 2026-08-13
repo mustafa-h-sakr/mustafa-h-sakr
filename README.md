@@ -32,7 +32,7 @@ Currently focused on building strong practical skills in:
 <img src="https://img.shields.io/badge/WhatsApp-%2B20%20108%20031%208492-25D366?style=flat-square&logo=whatsapp&logoColor=white">
 </a>
 
-<a href="https://mustafa.h.sakr.profille.com">
+<a href="https://mustafa-h-sakr.github.io/portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-007ACC?style=flat-square&logo=googlechrome&logoColor=white">
 </a>
 
